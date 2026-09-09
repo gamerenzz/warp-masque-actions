@@ -276,9 +276,10 @@ ${p(picks)}
   - name: 🍎 苹果服务
     type: select
     proxies:
-      - 🎯 全球直连
       - 🚀 节点选择
       - ♻️ 自动选择
+      - 🔄 故障转移
+${p(picks)}
 
   - name: 📢 谷歌FCM
     type: select
