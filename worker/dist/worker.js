@@ -695,9 +695,10 @@ ${p(picks)}
   - name: \u{1F34E} \u82F9\u679C\u670D\u52A1
     type: select
     proxies:
-      - \u{1F3AF} \u5168\u7403\u76F4\u8FDE
       - \u{1F680} \u8282\u70B9\u9009\u62E9
       - \u267B\uFE0F \u81EA\u52A8\u9009\u62E9
+      - \u{1F504} \u6545\u969C\u8F6C\u79FB
+${p(picks)}
 
   - name: \u{1F4E2} \u8C37\u6B4CFCM
     type: select
